@@ -92,7 +92,7 @@ The final step includes splitting the RGB image into its three channels and sele
 **Rn = Red_norm, Gn = Green_norm, Bn = Blue_norm 
 
 ## Citation
-Manuscript is currently in preparation. Please don't publish anything without our permission.
+The manuscript has been published in Physiologia Plantarum. Please refer to this manuscript when citing our plugin: ** https://doi.org/10.1111/ppl.70588**
 
 ## Contributors
 Thalia Luden <br/>
