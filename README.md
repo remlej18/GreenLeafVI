@@ -92,7 +92,7 @@ The final step includes splitting the RGB image into its three channels and sele
 **Rn = Red_norm, Gn = Green_norm, Bn = Blue_norm 
 
 ## Citation
-Manuscript is currently in preparation. Please don't publish anything without our permission.
+Please refer to our published [article](https://doi.org/10.1111/ppl.70588) when citing this plugin.
 
 ## Contributors
 Thalia Luden <br/>
